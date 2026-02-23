@@ -1,0 +1,1422 @@
+main.py starting!
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+CalculatorApp starting!
+closing CalculatorApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+PaintApp starting!
+closing PaintApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+Exception: Shutdown
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+CalculatorApp starting!
+closing CalculatorApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+Exception: 'NoneType' object has no attribute 'consume_result'
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+Exception: unsupported types for __add__: 'str', 'int'
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+CalculatorApp starting!
+closing CalculatorApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+Exception: 'NoneType' object has no attribute 'consume_result'
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+PaintApp starting!
+closing PaintApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+changing function theme to HackerTheme
+changing function theme to LightTheme
+changing function theme to DarkTheme
+changing function theme to HalloweenTheme
+changing function theme to HackerTheme
+changing function theme to LightTheme
+closing SettingsApp
+MainMenuApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+sleep mode disabled
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+inactive for: 1800 ticks
+inactive for: 1900 ticks
+inactive for: 2000 ticks
+inactive for: 2100 ticks
+inactive for: 2200 ticks
+inactive for: 2300 ticks
+inactive for: 2400 ticks
+inactive for: 2500 ticks
+inactive for: 2600 ticks
+inactive for: 2700 ticks
+inactive for: 2800 ticks
+inactive for: 2900 ticks
+inactive for: 3000 ticks
+inactive for: 3100 ticks
+inactive for: 3200 ticks
+inactive for: 3300 ticks
+sleep mode disabled
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+sleep mode disabled
+closing MainMenuApp
+LogApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 100 ticks
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+changing function theme to HackerTheme
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+CalculatorApp starting!
+closing CalculatorApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+changing function theme to HackerTheme
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+PaintApp starting!
+closing PaintApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+CalculatorApp starting!
+closing CalculatorApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+inactive for: 100 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+closing SettingsApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+inactive for: 1800 ticks
+inactive for: 1900 ticks
+inactive for: 2000 ticks
+inactive for: 2100 ticks
+inactive for: 2200 ticks
+inactive for: 2300 ticks
+inactive for: 2400 ticks
+inactive for: 2500 ticks
+inactive for: 2600 ticks
+inactive for: 2700 ticks
+inactive for: 2800 ticks
+inactive for: 2900 ticks
+inactive for: 3000 ticks
+inactive for: 3100 ticks
+inactive for: 3200 ticks
+inactive for: 3300 ticks
+inactive for: 3400 ticks
+inactive for: 3500 ticks
+inactive for: 3600 ticks
+inactive for: 3700 ticks
+inactive for: 3800 ticks
+inactive for: 3900 ticks
+inactive for: 4000 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+closing DinoRunnerApp
+MainMenuApp starting!
+inactive for: 100 ticks
+closing MainMenuApp
+LogApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+closing LogApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+inactive for: 1800 ticks
+inactive for: 1900 ticks
+inactive for: 2000 ticks
+inactive for: 2100 ticks
+inactive for: 2200 ticks
+inactive for: 2300 ticks
+inactive for: 2400 ticks
+inactive for: 2500 ticks
+inactive for: 2600 ticks
+inactive for: 2700 ticks
+inactive for: 2800 ticks
+inactive for: 2900 ticks
+inactive for: 3000 ticks
+inactive for: 3100 ticks
+inactive for: 3200 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+CalculatorApp starting!
+closing CalculatorApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+changing function theme to HackerTheme
+changing function theme to LightTheme
+changing function theme to DarkTheme
+changing function theme to LightTheme
+changing function theme to HackerTheme
+closing SettingsApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+sleep mode disabled
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+sleep mode disabled
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+inactive for: 100 ticks
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to LightTheme
+changing function theme to HackerTheme
+changing function theme to HalloweenTheme
+changing function theme to DarkTheme
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+inactive for: 100 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+closing DinoRunnerApp
+MainMenuApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+inactive for: 1800 ticks
+inactive for: 1900 ticks
+inactive for: 2000 ticks
+inactive for: 2100 ticks
+inactive for: 2200 ticks
+inactive for: 2300 ticks
+inactive for: 2400 ticks
+inactive for: 2500 ticks
+inactive for: 2600 ticks
+inactive for: 2700 ticks
+inactive for: 2800 ticks
+inactive for: 2900 ticks
+inactive for: 3000 ticks
+inactive for: 3100 ticks
+inactive for: 3200 ticks
+inactive for: 3300 ticks
+sleep mode disabled
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+sleep mode disabled
+inactive for: 100 ticks
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 100 ticks
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+sleep mode disabled
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+sleep mode disabled
+closing MainMenuApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+inactive for: 1800 ticks
+inactive for: 1900 ticks
+inactive for: 2000 ticks
+inactive for: 2100 ticks
+inactive for: 2200 ticks
+inactive for: 2300 ticks
+inactive for: 2400 ticks
+inactive for: 2500 ticks
+inactive for: 2600 ticks
+inactive for: 2700 ticks
+inactive for: 2800 ticks
+inactive for: 2900 ticks
+inactive for: 3000 ticks
+inactive for: 3100 ticks
+inactive for: 3200 ticks
+inactive for: 3300 ticks
+inactive for: 3400 ticks
+inactive for: 3500 ticks
+inactive for: 3600 ticks
+inactive for: 3700 ticks
+inactive for: 3800 ticks
+inactive for: 3900 ticks
+inactive for: 4000 ticks
+inactive for: 4100 ticks
+inactive for: 4200 ticks
+inactive for: 4300 ticks
+sleep mode disabled
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+inactive for: 1800 ticks
+inactive for: 1900 ticks
+sleep mode disabled
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+sleep mode disabled
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+inactive for: 1800 ticks
+inactive for: 1900 ticks
+inactive for: 2000 ticks
+inactive for: 2100 ticks
+inactive for: 2200 ticks
+inactive for: 2300 ticks
+inactive for: 2400 ticks
+inactive for: 2500 ticks
+inactive for: 2600 ticks
+inactive for: 2700 ticks
+inactive for: 2800 ticks
+inactive for: 2900 ticks
+inactive for: 3000 ticks
+inactive for: 3100 ticks
+inactive for: 3200 ticks
+inactive for: 3300 ticks
+inactive for: 3400 ticks
+inactive for: 3500 ticks
+inactive for: 3600 ticks
+inactive for: 3700 ticks
+inactive for: 3800 ticks
+inactive for: 3900 ticks
+inactive for: 4000 ticks
+inactive for: 4100 ticks
+inactive for: 4200 ticks
+inactive for: 4300 ticks
+inactive for: 4400 ticks
+inactive for: 4500 ticks
+inactive for: 4600 ticks
+inactive for: 4700 ticks
+inactive for: 4800 ticks
+inactive for: 4900 ticks
+inactive for: 5000 ticks
+inactive for: 5100 ticks
+inactive for: 5200 ticks
+inactive for: 5300 ticks
+inactive for: 5400 ticks
+inactive for: 5500 ticks
+inactive for: 5600 ticks
+inactive for: 5700 ticks
+inactive for: 5800 ticks
+inactive for: 5900 ticks
+inactive for: 6000 ticks
+inactive for: 6100 ticks
+inactive for: 6200 ticks
+inactive for: 6300 ticks
+inactive for: 6400 ticks
+inactive for: 6500 ticks
+inactive for: 6600 ticks
+inactive for: 6700 ticks
+inactive for: 6800 ticks
+inactive for: 6900 ticks
+inactive for: 7000 ticks
+inactive for: 7100 ticks
+inactive for: 7200 ticks
+inactive for: 7300 ticks
+inactive for: 7400 ticks
+inactive for: 7500 ticks
+inactive for: 7600 ticks
+inactive for: 7700 ticks
+inactive for: 7800 ticks
+inactive for: 7900 ticks
+inactive for: 8000 ticks
+inactive for: 8100 ticks
+inactive for: 8200 ticks
+inactive for: 8300 ticks
+inactive for: 8400 ticks
+inactive for: 8500 ticks
+inactive for: 8600 ticks
+inactive for: 8700 ticks
+inactive for: 8800 ticks
+inactive for: 8900 ticks
+inactive for: 9000 ticks
+inactive for: 9100 ticks
+inactive for: 9200 ticks
+inactive for: 9300 ticks
+inactive for: 9400 ticks
+inactive for: 9500 ticks
+inactive for: 9600 ticks
+inactive for: 9700 ticks
+inactive for: 9800 ticks
+inactive for: 9900 ticks
+inactive for: 10000 ticks
+inactive for: 10100 ticks
+inactive for: 10200 ticks
+inactive for: 10300 ticks
+inactive for: 10400 ticks
+inactive for: 10500 ticks
+inactive for: 10600 ticks
+inactive for: 10700 ticks
+inactive for: 10800 ticks
+inactive for: 10900 ticks
+inactive for: 11000 ticks
+inactive for: 11100 ticks
+inactive for: 11200 ticks
+inactive for: 11300 ticks
+inactive for: 11400 ticks
+inactive for: 11500 ticks
+inactive for: 11600 ticks
+inactive for: 11700 ticks
+inactive for: 11800 ticks
+inactive for: 11900 ticks
+inactive for: 12000 ticks
+inactive for: 12100 ticks
+inactive for: 12200 ticks
+inactive for: 12300 ticks
+inactive for: 12400 ticks
+inactive for: 12500 ticks
+inactive for: 12600 ticks
+inactive for: 12700 ticks
+inactive for: 12800 ticks
+inactive for: 12900 ticks
+inactive for: 13000 ticks
+inactive for: 13100 ticks
+inactive for: 13200 ticks
+inactive for: 13300 ticks
+inactive for: 13400 ticks
+inactive for: 13500 ticks
+inactive for: 13600 ticks
+inactive for: 13700 ticks
+inactive for: 13800 ticks
+inactive for: 13900 ticks
+inactive for: 14000 ticks
+inactive for: 14100 ticks
+inactive for: 14200 ticks
+inactive for: 14300 ticks
+inactive for: 14400 ticks
+inactive for: 14500 ticks
+inactive for: 14600 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+PaintApp starting!
+closing PaintApp
+MainMenuApp starting!
+closing MainMenuApp
+CalculatorApp starting!
+closing CalculatorApp
+MainMenuApp starting!
+inactive for: 100 ticks
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+closing DinoRunnerApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+sleep mode disabled
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+changing function theme to HackerTheme
+closing SettingsApp
+MainMenuApp starting!
+inactive for: 100 ticks
+closing MainMenuApp
+SettingsApp starting!
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+CalculatorApp starting!
+closing CalculatorApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+Exception: Shutdown
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+Exception: Shutdown
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+closing DinoRunnerApp
+MainMenuApp starting!
+Exception: Shutdown
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+inactive for: 1800 ticks
+inactive for: 1900 ticks
+inactive for: 2000 ticks
+inactive for: 2100 ticks
+inactive for: 2200 ticks
+inactive for: 2300 ticks
+inactive for: 2400 ticks
+inactive for: 2500 ticks
+inactive for: 2600 ticks
+inactive for: 2700 ticks
+inactive for: 2800 ticks
+inactive for: 2900 ticks
+inactive for: 3000 ticks
+inactive for: 3100 ticks
+inactive for: 3200 ticks
+inactive for: 3300 ticks
+inactive for: 3400 ticks
+inactive for: 3500 ticks
+inactive for: 3600 ticks
+inactive for: 3700 ticks
+inactive for: 3800 ticks
+inactive for: 3900 ticks
+inactive for: 4000 ticks
+inactive for: 4100 ticks
+inactive for: 4200 ticks
+inactive for: 4300 ticks
+inactive for: 4400 ticks
+inactive for: 4500 ticks
+inactive for: 4600 ticks
+inactive for: 4700 ticks
+inactive for: 4800 ticks
+inactive for: 4900 ticks
+inactive for: 5000 ticks
+inactive for: 5100 ticks
+inactive for: 5200 ticks
+inactive for: 5300 ticks
+inactive for: 5400 ticks
+inactive for: 5500 ticks
+inactive for: 5600 ticks
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+PaintApp starting!
+closing PaintApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+changing function theme to HackerTheme
+changing function theme to LightTheme
+changing function theme to DarkTheme
+changing function theme to HalloweenTheme
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+PaintApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+sleep mode disabled
+closing MainMenuApp
+LogApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+changing function theme to HackerTheme
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+===================
+picolator starting!
+===================
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+===================
+picolator starting!
+===================
+{'theme': 2}
+MainMenuApp starting!
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+Exception: 'NoneType' object has no attribute 'consume_result'
+===================
+picolator starting!
+===================
+{'theme': 2}
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+changing function theme to HalloweenTheme
+changing function theme to HackerTheme
+closing SettingsApp
+MainMenuApp starting!
+closing MainMenuApp
+PaintApp starting!
+closing PaintApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+inactive for: 100 ticks
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+DinoRunnerApp starting!
+closing DinoRunnerApp
+MainMenuApp starting!
+closing MainMenuApp
+SettingsApp starting!
+Exception: 'NoneType' object has no attribute 'consume_result'
+===================
+picolator starting!
+===================
+{'theme': 2}
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+sleep mode disabled
+closing MainMenuApp
+LogApp starting!
+closing LogApp
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled
+inactive for: 700 ticks
+inactive for: 800 ticks
+inactive for: 900 ticks
+inactive for: 1000 ticks
+inactive for: 1100 ticks
+inactive for: 1200 ticks
+inactive for: 1300 ticks
+inactive for: 1400 ticks
+inactive for: 1500 ticks
+inactive for: 1600 ticks
+inactive for: 1700 ticks
+inactive for: 1800 ticks
+inactive for: 1900 ticks
+===================
+picolator starting!
+===================
+{'theme': 2}
+MainMenuApp starting!
+inactive for: 100 ticks
+inactive for: 200 ticks
+inactive for: 300 ticks
+inactive for: 400 ticks
+inactive for: 500 ticks
+inactive for: 600 ticks
+sleep mode enabled

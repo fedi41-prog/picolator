@@ -1,0 +1,2 @@
+Shutdown
+ShutdownShutdown'NoneType' object has no attribute 'consume_result'ShutdownShutdown'NoneType' object has no attribute 'consume_result'unsupported types for __add__: 'str', 'int''NoneType' object has no attribute 'consume_result'ShutdownShutdownShutdown'NoneType' object has no attribute 'consume_result''NoneType' object has no attribute 'consume_result'
