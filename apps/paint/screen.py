@@ -1,14 +1,14 @@
 from lcddraw import center_str
 from logger import Logger
 from classes import *
-from color import to_color, Palette, theme
+from color import rgb_color
 
 paint_colors = [
     0,
     0xffff,
-    to_color(255, 0, 0),
-    to_color(0, 255, 0),
-    to_color(0, 0, 255),
+    rgb_color(255, 0, 0),
+    rgb_color(0, 255, 0),
+    rgb_color(0, 0, 255),
 ]
 
 size = 24

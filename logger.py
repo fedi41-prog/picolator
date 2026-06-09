@@ -1,4 +1,4 @@
-from color import to_color
+from color import rgb_color
 
 class Logger:
     
@@ -9,7 +9,7 @@ class Logger:
     def log(msg, color=(255, 255, 255)):
         #msg = " ".join(str(a) for a in args)
         
-        Logger.colors.append(to_color(*color))
+        Logger.colors.append(rgb_color(*color))
         Logger.lines.append(msg)
         if len(Logger.lines) > Logger.max_lines:
             Logger.lines.pop(0)

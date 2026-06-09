@@ -2,7 +2,7 @@
 from lcddraw import center_str
 from logger import Logger
 from classes import *
-from color import theme
+from theme import theme
 
 font_h = 8
 lines_on_screen = 240//font_h
@@ -14,7 +14,7 @@ class LogScreen(Screen):
         self.scroll = 0
 
     def render(self, lcd):
-        lcd.fill(theme().BG)
+        lcd.fill(theme().SURFACE)
 
         total = len(Logger.lines)
         start = max(0, total - lines_on_screen - self.scroll)
@@ -28,11 +28,11 @@ class LogScreen(Screen):
             y += font_h
     
     def update(self, input):
-        if input.just_pressed("down"):
+        if input.is_pressed("down"):
             self.down()
             self.dirty = True
 
-        if input.just_pressed("up"):
+        if input.is_pressed("up"):
             self.up()
             self.dirty = True
         if input.just_pressed("B"):

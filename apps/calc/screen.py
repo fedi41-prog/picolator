@@ -2,7 +2,7 @@
 from lcddraw import center_str
 from logger import Logger
 from classes import *
-from color import to_color, Palette, theme
+from theme import theme
 
 class CalculatorScreen(Screen):
     
@@ -10,9 +10,9 @@ class CalculatorScreen(Screen):
         super().__init__(manager)
 
     def render(self, lcd):
-        lcd.fill(theme().BG)
+        lcd.fill(theme().SURFACE)
 
-        lcd.fill_rect(10, 10, 220, 30, theme().SELECTED_BG)
+        lcd.fill_rect(10, 10, 220, 30, theme().PRIMARY)
     
     def update(self, input):
         if input.just_pressed("down"):

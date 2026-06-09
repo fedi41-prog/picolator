@@ -11,7 +11,7 @@ class MainMenuApp(App):
     def handle_result(self, result):
         if result == ScreenResult.START_APP:
             self.result = AppResult.START_APP
-            self.next_app = self.screen.apps[self.screen.index]
+            self.next_app = self.manager.all_apps[self.screen.index]
 
 
     

@@ -7,6 +7,7 @@ from apps.main_menu.app import MainMenuApp
 from apps.log.app import LogApp
 from logger import Logger
 from config import load_config, CONFIG
+from theme import update_theme_from_config
 
 import gc
 
@@ -15,7 +16,6 @@ import os
 
 
 BL = 13 # Backlight
-
 
 led = Pin(25, Pin.OUT)
 
@@ -27,18 +27,25 @@ led = Pin(25, Pin.OUT)
 
 #    time.sleep(0.07)
 #print("executing!")
-Logger.log("===================", (255, 0, 255))
-Logger.log("picolator starting!", (255, 0, 255))
-Logger.log("===================", (255, 0, 255))
-
-load_config()
-
-Logger.log(str(CONFIG), (255, 255, 255))
 
 pwm = PWM(Pin(BL))
 default_duty = 40000
 
 print(1000/60 )
+
+
+def aply_config():
+    update_theme_from_config()
+
+
+Logger.log("===================", (255, 0, 255))
+Logger.log("picolator starting!", (255, 0, 255))
+Logger.log("===================", (255, 0, 255))
+
+load_config()
+Logger.log(str(CONFIG()), (255, 255, 255))
+
+aply_config()
 
 def main():
     
@@ -80,24 +87,27 @@ def main():
         
         time.sleep_ms(7) 
 
-try:
-    main()
-except Exception as e:
-    print(e)
-    Logger.log("Exception: " + str(e))
-    with open("crash.txt", "a") as f:
-        f.write(str(e))
-finally: 
-    pwm.freq(0)
-    pwm.duty_u16(0)
-
-    time.sleep(0.5)
+if True:
+    try:
+        main()
+    except Exception as e:
+        print(e)
+        Logger.log("Exception: " + str(e))
+        with open("crash.txt", "a") as f:
+            f.write(str(e))
+    finally: 
+        pwm.freq(0)
+        pwm.duty_u16(0)
     
-    for i in range(5):
-        led.high()
-        time.sleep(0.07)
-        led.low()
-        time.sleep(0.07)
+        time.sleep(0.5)
+    
+        for i in range(5):
+            led.high()
+            time.sleep(0.07)
+            led.low()
+            time.sleep(0.07)
+else:
+    main()
     
 
     

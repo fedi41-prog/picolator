@@ -1,7 +1,7 @@
 from lcddraw import center_str, draw_pixels
 from logger import Logger
 from classes import *
-from color import to_color, Palette, theme
+from color import rgb_color
 
 import random
 
@@ -55,18 +55,18 @@ class DinoRunnerScreen(Screen):
         self.dinoX = 0
 
     def render(self, lcd):
-        lcd.fill(to_color(170, 170, 255))
+        lcd.fill(rgb_color(170, 170, 255))
         
-        lcd.fill_rect(0, floor, 240, 240-floor, to_color(150, 82, 32))
+        lcd.fill_rect(0, floor, 240, 240-floor, rgb_color(150, 82, 32))
 
-        draw_pixels(sprites["dino"], 40, floor-self.dinoY-dino_height, to_color(255, 255, 0), lcd, sz=4)
+        draw_pixels(sprites["dino"], 40, floor-self.dinoY-dino_height, rgb_color(255, 255, 0), lcd, sz=4)
         
         for c in self.cactus_list:
-            draw_pixels(sprites["cactus"], c, floor-cactus_height, to_color(0, 255, 0), lcd, sz=4)
+            draw_pixels(sprites["cactus"], c, floor-cactus_height, rgb_color(0, 255, 0), lcd, sz=4)
         
         if not self.running:
-            center_str("PRESS A", 100, 3, to_color(255, 0, 0), lcd)
-            center_str("Dino runner:)", 50, 2, to_color(255, 255, 0), lcd)
+            center_str("PRESS A", 100, 3, rgb_color(255, 0, 0), lcd)
+            center_str("Dino runner:)", 50, 2, rgb_color(255, 255, 0), lcd)
     
     def update(self, input):
         if input.just_pressed("down"):
