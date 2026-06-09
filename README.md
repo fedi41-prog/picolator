@@ -1,5 +1,7 @@
 # PICOLATOR
 
+*C version coming sooooon* - https://github.com/fedi41-prog/picolator2
+
 The **picolator**is just a rpi pico 2w with a display and some btns :)
 The project is currentltly in work, burt it already has differtent apps and themes
  - Log
